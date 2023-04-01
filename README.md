@@ -48,7 +48,7 @@ src="https://img.shields.io/twitter/follow/amreel1904?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amreel1904"><img src="https://github-readme-stats.vercel.app/api?username=amreel1904&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="amreel1904's GitHub stats" /></a>
+<a href="http://www.github.com/amreel1904"><img src="https://github-readme-stats.vercel.app/api?username=amreel1904&show_icons=true&hide=prs,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="amreel1904's GitHub stats" /></a>
 
 <a href="http://www.github.com/amreel1904"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amreel1904&stroke=ffffff&background=134e4a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
