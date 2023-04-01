@@ -6,15 +6,18 @@ Software Engineer & UIUX Designer
 
 I am passionate about becoming a Full-Stack Developer, with a strong interest in both front-end and back-end development. My education has provided me with a strong foundation that I am eager to build upon as I pursue my goal of becoming a Full-Stack Developer. I am excited to continue learning and taking on new challenges as I work towards developing my skills and expertise in the field.
 
-*   🌍  I'm based in Malaysia
-*   ✉️  You can contact me at [amreelnuqman.iman@gmail.com](mailto:amreelnuqman.iman@gmail.com)
-*   🧠  I'm learning new things everyday
-*   ⚡  I'm on a mission to find the best roti canai in the city, and I won't stop until I succeed<a href="https://www.github.com/amreel1904" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/amreel1904?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" /></a><a href="https://www.twitter.com/amreel1904" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/amreel1904?logo=twitter&style=for-the-badge&color=22c55e&labelColor=134e4a"
-                /></a>
-                
+* 🌍  I'm based in Malaysia
+* ✉️  You can contact me at [amreelnuqman.iman@gmail.com](mailto:amreelnuqman.iman@gmail.com)
+* 🧠  I'm learning new things everyday
+* ⚡  I'm on a mission to find the best roti canai in the city, and I won't stop until I succeed
+
+<a href="https://www.github.com/amreel1904" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/amreel1904?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" /></a><a href="https://www.twitter.com/amreel1904" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/amreel1904?logo=twitter&style=for-the-badge&color=22c55e&labelColor=134e4a"
+/></a>
+
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -35,20 +38,22 @@ I am passionate about becoming a Full-Stack Developer, with a strong interest in
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
+
+
 ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.behance.com/amreel_nuqman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/amreel1904"><img src="https://github-readme-stats.vercel.app/api?username=amreel1904&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="amreel1904's GitHub stats" /></a><a
-                      href="http://www.github.com/amreel1904"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=amreel1904&stroke=ffffff&background=134e4a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/amreel1904" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreel1904&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/amreel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<p align="left"> <a href="https://www.behance.com/amreel_nuqman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/amreel1904"><img src="https://github-readme-stats.vercel.app/api?username=amreel1904&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="amreel1904's GitHub stats" /></a>
+
+<a href="http://www.github.com/amreel1904"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amreel1904&stroke=ffffff&background=134e4a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/amreel1904" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreel1904&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/amreel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
