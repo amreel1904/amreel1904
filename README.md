@@ -42,7 +42,7 @@ I am passionate about becoming a Full-Stack Developer, with a strong interest in
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/amreel1904" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreel1904&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/amreel1904" align="left"><img src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=amreel1904&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
