@@ -6,8 +6,7 @@ Software Engineer & UIUX Designer
 
 I am passionate about becoming a Full-Stack Developer, with a strong interest in both front-end and back-end development. My education has provided me with a strong foundation that I am eager to build upon as I pursue my goal of becoming a Full-Stack Developer. I am excited to continue learning and taking on new challenges as I work towards developing my skills and expertise in the field.
 
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [amreelnuqman.iman@gmail.com](mailto:amreelnuqman.iman@gmail.com)
+* ✉️  Contact me at [amreelnuqman.iman@gmail.com](mailto:amreelnuqman.iman@gmail.com)
 * 🧠  I'm learning new things everyday
 * ⚡  I'm on a mission to find the best roti canai in the city, and I won't stop until I succeed
 
@@ -32,11 +31,6 @@ I am passionate about becoming a Full-Stack Developer, with a strong interest in
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.behance.com/amreel_nuqman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Statistics
 <p
