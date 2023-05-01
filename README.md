@@ -36,15 +36,16 @@ I am passionate about becoming a Full-Stack Developer, with a strong interest in
 
 ### Socials
 
-<p align="left"> <a href="https://www.behance.com/amreel_nuqman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.behance.com/amreel_nuqman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/amreel1904" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/amreel1904" align="left"><img src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=amreel1904&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amreel1904&layout=compact)](https://github.com/amreel1904/github-readme-stats)
+### Statistics
+<p
+      <a href="https://github.com/amreel1904?tab=repositories&q=&type=&language=&sort=stargazers">
+        <picture>
+          <img alt="Amreel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=amreel1904&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
+        </picture>
+      </a>
+</p>   
 
 ### Support Me
 
