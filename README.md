@@ -55,4 +55,4 @@ I am passionate about becoming a Full-Stack Developer, with a strong interest in
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/amreel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/amreel" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
