@@ -15,6 +15,7 @@ I am passionate about becoming a Full-Stack Developer, with a strong interest in
 
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="36" width="36"/> </a>
+<!-- <a href="https://www.javatpoint.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/28/28968.png" alt="jsp" height="36" width="36"/> </a> -->
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <!---
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>-->
