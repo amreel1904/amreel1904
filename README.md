@@ -34,6 +34,7 @@ I am passionate about becoming a Full-Stack Developer, with a strong interest in
 <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/sourcetree_macos_bigsur_icon_189711.png" width="auto" height="40"/>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.heidisql.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/120px-HeidiSQL_logo_image.png" alt="HeidiSQL" height="36" width="36"/></a>
+<a href="https://sqlitebrowser.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/7804464/59509117-6caa5000-8eb0-11e9-8c9a-70b06f927d1b.png" alt="DBBrowser" height="36" width="36"/></a>
 <!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> -->
 
 
