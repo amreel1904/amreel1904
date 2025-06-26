@@ -1,7 +1,7 @@
 My name is Amreel Nuqman
 =====================================================================================================================================
 
-Software Engineer & UIUX Designer
+Fullstack Developer & UIUX Designer
 ---------------------------------
 
 I am passionate about becoming a Full-Stack Developer, with a strong interest in both front-end and back-end development. My education has provided me with a strong foundation that I am eager to build upon as I pursue my goal of becoming a Full-Stack Developer. I am excited to continue learning and taking on new challenges as I work towards developing my skills and expertise in the field.
