@@ -53,7 +53,8 @@ I am passionate about becoming a Full-Stack Developer, with a strong interest in
 
 <p <a href="https://github.com/amreel1904?tab=repositories&q=&type=&language=&sort=stargazers"><picture><img alt="Amreel's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=amreel1904&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" /></picture></a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amreel1904&theme=nightowl"/></a>
+
+[![GitHub Streak](https://github-readme-streak-stats-hazel-five.vercel.app?user=amreel1904&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
 ### Support Me
